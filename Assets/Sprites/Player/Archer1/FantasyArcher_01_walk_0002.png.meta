@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: 11b7ddb7ab4cd144a9f993c6609c0d4a
+timeCreated: 1458947458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyArcher_01_walk_0002_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: FantasyArcher_01_walk_0002_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 58
+        width: 140
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 116.5}
+        - {x: 20, y: 145.5}
+        - {x: -39, y: 145.5}
+        - {x: -67, y: 124.5}
+        - {x: -70, y: 112.5}
+        - {x: -70, y: -102.5}
+        - {x: -40, y: -145.5}
+        - {x: 21, y: -145.5}
+        - {x: 70, y: -69.5}
+        - {x: 70, y: -3.5}
+        - {x: 62, y: 32.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

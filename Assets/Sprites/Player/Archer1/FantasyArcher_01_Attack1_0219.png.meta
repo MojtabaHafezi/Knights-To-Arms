@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 6df12c856daaf5246ad72d74f94168a7
+timeCreated: 1458947053
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyArcher_01_Attack1_0219_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: FantasyArcher_01_Attack1_0219_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 58
+        width: 324
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -148}
+        - {x: 49, y: -52}
+        - {x: 76, y: -86}
+        - {x: 96, y: -95}
+        - {x: 149, y: -43}
+        - {x: 162, y: -24}
+        - {x: 162, y: 78}
+        - {x: 103, y: 147}
+        - {x: 82, y: 135}
+        - {x: 84, y: 110}
+        - {x: 86, y: 108}
+        - {x: 87, y: 66}
+        - {x: 53, y: 148}
+        - {x: -89, y: 148}
+        - {x: -162, y: 39}
+        - {x: -162, y: -68}
+        - {x: -142, y: -111}
+        - {x: -64, y: -148}
+        - {x: -1, y: -148}
+        - {x: -4, y: -140}
+        - {x: 0, y: -148}
+      - - {x: 79, y: -64}
+        - {x: 81, y: -66}
+        - {x: 84, y: -65}
+        - {x: 84, y: -41}
+        - {x: 82, y: -39}
+        - {x: 79, y: -40}
+      - - {x: 80, y: -36}
+        - {x: 82, y: -38}
+        - {x: 85, y: -37}
+        - {x: 85, y: -13}
+        - {x: 83, y: -11}
+        - {x: 80, y: -12}
+      - - {x: 83, y: 65}
+        - {x: 85, y: 63}
+        - {x: 88, y: 64}
+        - {x: 88, y: 106}
+        - {x: 86, y: 108}
+        - {x: 83, y: 107}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 8858ee896f86d3a4fb58775541762ae5
+timeCreated: 1468406025
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_0
+    21300002: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_1
+    21300004: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_2
+    21300006: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_3
+    21300008: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_4
+    21300010: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_5
+    21300012: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_6
+    21300014: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_7
+    21300016: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_8
+    21300018: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_9
+    21300020: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_10
+    21300022: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_11
+    21300024: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_12
+    21300026: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_13
+    21300028: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_14
+    21300030: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 831
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36}
+        - {x: -30, y: 35}
+        - {x: -30, y: -36}
+        - {x: 12, y: -36}
+        - {x: 30, y: -24}
+        - {x: 30, y: 36}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 831
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 36}
+        - {x: -30, y: 27}
+        - {x: -30, y: -7}
+        - {x: -24, y: -33}
+        - {x: -19, y: -36}
+        - {x: 21, y: -36}
+        - {x: 30, y: -27}
+        - {x: 30, y: 36}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 832
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 36}
+        - {x: -30, y: -4}
+        - {x: -20, y: -33}
+        - {x: -13, y: -36}
+        - {x: 24, y: -36}
+        - {x: 30, y: -31}
+        - {x: 30, y: 34}
+        - {x: 28, y: 36}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 833
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 29}
+        - {x: 27, y: 36}
+        - {x: -22, y: 36}
+        - {x: -32, y: 26}
+        - {x: -32, y: -4}
+        - {x: -27, y: -14}
+        - {x: -15, y: -30}
+        - {x: -9, y: -36}
+        - {x: 21, y: -36}
+        - {x: 32, y: -26}
+        - {x: 32, y: 0}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 580
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 35.5}
+        - {x: -37.5, y: 33.5}
+        - {x: -37.5, y: -2.5}
+        - {x: -31.5, y: -24.5}
+        - {x: -13.5, y: -35.5}
+        - {x: 35.5, y: -35.5}
+        - {x: 37.5, y: -33.5}
+        - {x: 37.5, y: 21.5}
+        - {x: 28.5, y: 35.5}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 579
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 36}
+        - {x: -43.5, y: 16}
+        - {x: -43.5, y: -27}
+        - {x: -28.5, y: -36}
+        - {x: 37.5, y: -36}
+        - {x: 43.5, y: -20}
+        - {x: 43.5, y: 10}
+        - {x: 22.5, y: 36}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 578
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 36.5}
+        - {x: -46, y: 11.5}
+        - {x: -46, y: -17.5}
+        - {x: -26, y: -36.5}
+        - {x: 41, y: -36.5}
+        - {x: 46, y: -33.5}
+        - {x: 46, y: 19.5}
+        - {x: 29, y: 36.5}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 578
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 37}
+        - {x: -46.5, y: 15}
+        - {x: -46.5, y: -8}
+        - {x: -13.5, y: -36}
+        - {x: -9.5, y: -37}
+        - {x: 29.5, y: -37}
+        - {x: 46.5, y: -4}
+        - {x: 46.5, y: 19}
+        - {x: 32.5, y: 37}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 324
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 324
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 324
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 324
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    - name: npc_juju_bandit_bandana_black_variant_yellow_x1_walk_end_png_1354834062_15
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 36}
+        - {x: -19.5, y: 36}
+        - {x: -45.5, y: 18}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -6}
+        - {x: -9.5, y: -36}
+        - {x: 27.5, y: -36}
+        - {x: 36.5, y: -33}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
